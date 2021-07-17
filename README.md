@@ -24,7 +24,7 @@ This project audits the tabulated data of election results of the Congressional 
  
  The final election result is the output of the script shown in the screenshot of the text file (_election_results.txt_) below. 
 
-<img src='./resources/Election_results_textfile_photo.png' width = 375 >
+<img src='./Resources/Election_results_textfile_photo.png' width = 375 >
   
 The information describing the election outcome as requested by the election commission is formatted as instructed.
 
